@@ -33,7 +33,7 @@ namespace Prs_Server.Models
 
         public virtual ICollection<Request> Requests { get; set; }
 
-        public User() { }
+        public User () { }
 
     }
 }

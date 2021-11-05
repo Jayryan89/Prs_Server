@@ -31,7 +31,7 @@ namespace Prs_Server.Models
 
         public virtual ICollection<Requestline> Requestlines { get; set; }
 
-        public Product() { }
+        public Product () { }
 
     }
 }
